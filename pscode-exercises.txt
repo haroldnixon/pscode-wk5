@@ -13,7 +13,7 @@ print on the screen the sum of those 2 numbers
 // Exercise 2: Check if a Number is Even or Odd
 
 ask for x
-if { x % 2 }
+if { x % 2 } == 0
 	print('Even')
 else
 	print('Odd')
